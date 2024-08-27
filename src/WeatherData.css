@@ -1,0 +1,17 @@
+span {
+  font-weight: bold;
+
+}
+
+
+.WeatherDataContainer {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+
+
